@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=FAN Pin=ESP1-11
+Removed Pin From Net: NetName=DHT Pin=ESP1-20
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=H1 NewDesignator=H2
+Change Component Designator: OldDesignator=H2 NewDesignator=H1
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Added Component: Designator=keypad1(XH2.54M-7)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003369"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 7P XH2.54-7P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=R6(tro vach 1/2w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006198"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(SW_342_SMD)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ITT C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RS-282G05A3-SMRT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "RS-282G05A3-SMRT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SP ROAD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FAN Pin=ESP1-12
+Added Pin To Net: NetName=DHT Pin=ESP1-25
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=SW4-1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetH1_1 New Net Name=NetH2_1
+Change Net Color : Old Net Color=Lime New Net Color=Default
+Change Net Color : Old Net Color=Aqua New Net Color=Default
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Added Pin To Net: NetName=C1 Pin=ESP1-20
+Added Pin To Net: NetName=C1 Pin=keypad1-5
+Added Net: Name=C1
+Added Pin To Net: NetName=C2 Pin=ESP1-19
+Added Pin To Net: NetName=C2 Pin=keypad1-6
+Added Net: Name=C2
+Added Pin To Net: NetName=C3 Pin=ESP1-18
+Added Pin To Net: NetName=C3 Pin=keypad1-7
+Added Net: Name=C3
+Added Pin To Net: NetName=R1 Pin=ESP1-24
+Added Pin To Net: NetName=R1 Pin=keypad1-1
+Added Net: Name=R1
+Added Pin To Net: NetName=R2 Pin=ESP1-23
+Added Pin To Net: NetName=R2 Pin=keypad1-2
+Added Net: Name=R2
+Added Pin To Net: NetName=R3 Pin=ESP1-22
+Added Pin To Net: NetName=R3 Pin=keypad1-3
+Added Net: Name=R3
+Added Pin To Net: NetName=R4 Pin=ESP1-21
+Added Pin To Net: NetName=R4 Pin=keypad1-4
+Added Net: Name=R4
+Added Pin To Net: NetName=SW_THRESH Pin=ESP1-11
+Added Pin To Net: NetName=SW_THRESH Pin=R6-1
+Added Pin To Net: NetName=SW_THRESH Pin=SW4-2
+Added Net: Name=SW_THRESH
+Added Member To Class: ClassName=DHT11 Member=Component keypad1 Header 7P 2.54 Duc Thang
+Added Member To Class: ClassName=DHT11 Member=Component R7 330R
+Added Member To Class: ClassName=DHT11 Member=Component SW4 TACTILE SWITCH

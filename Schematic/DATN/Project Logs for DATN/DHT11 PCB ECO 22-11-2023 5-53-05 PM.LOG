@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=DHT11 Member=H1
+Added Component: Designator=H?(XH2.54M-2)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001283"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=RL?(Relay 5 Chan SRD)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH009374"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Relay 5V10A SRD-05VDC-SL-C Chính Hãng"; VariantName = "[No Variations]"
+Added Component: Designator=RL?(Relay 5 Chan SRD)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH009374"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Relay 5V10A SRD-05VDC-SL-C Chính Hãng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=GND Pin=H?-2
+Added Pin To Net: NetName=Vin Pin=RL?-1
+Added Pin To Net: NetName=Vin Pin=RL?-1
+Added Pin To Net: NetName=NetH2_1 Pin=RL?-3
+Added Pin To Net: NetName=NetD1_1 Pin=RL?-4
+Added Pin To Net: NetName=NetD2_1 Pin=RL?-4
+Added Pin To Net: NetName=Vin Pin=RL?-5
+Added Pin To Net: NetName=Vin Pin=RL?-5
+Added Pin To Net: NetName=NetH?_1 Pin=H?-1
+Added Pin To Net: NetName=NetH?_1 Pin=RL?-3
+Added Net: Name=NetH?_1
+Added Member To Class: ClassName=DHT11 Member=Component H? Header 2P 2.54 Duc Thang
+Added Member To Class: ClassName=DHT11 Member=Component RL? Relay
+Added Member To Class: ClassName=DHT11 Member=Component RL? Relay

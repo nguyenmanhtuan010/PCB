@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+5 Pin=H4-1
+Added Pin To Net: NetName=+5 Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=C4-2
+Added Pin To Net: NetName=+5 Pin=ESP1-15
+Added Pin To Net: NetName=+5 Pin=IC1-3
+Added Pin To Net: NetName=+5 Pin=R7-1
+Change Net Name : Old Net Name=+5 New Net Name=Vin
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Change Net Color : Old Net Color=Red New Net Color=Default
+Change Net Color : Old Net Color=Lime New Net Color=Default
+Added Pin To Net: NetName=+5 Pin=H4-1
+Added Net: Name=+5
+Added Room: Name=DHT11

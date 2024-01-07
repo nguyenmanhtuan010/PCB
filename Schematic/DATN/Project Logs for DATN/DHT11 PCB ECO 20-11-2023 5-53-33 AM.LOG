@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SW2 Pin=ESP1-24
+Removed Pin From Net: NetName=SW1 Pin=ESP1-25
+Added Pin To Net: NetName=SW1 Pin=ESP1-18
+Added Pin To Net: NetName=SW2 Pin=ESP1-19
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Change Net Color : Old Net Color=Red New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=Lime New Net Color=Default

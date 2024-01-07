@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=NetH1_2 Pin=RL1-1
+Removed Pin From Net: NetName=NetH1_1 Pin=RL1-2
+Removed Pin From Net: NetName=NetD1_1 Pin=RL1-4
+Removed Pin From Net: NetName=Vin Pin=RL1-5
+Removed Pin From Net: NetName=NetH2_2 Pin=RL2-1
+Removed Pin From Net: NetName=NetH2_1 Pin=RL2-2
+Removed Pin From Net: NetName=NetD2_1 Pin=RL2-4
+Removed Pin From Net: NetName=Vin Pin=RL2-5
+Change Component Footprint: Designator=RL1 Old Footprint=Relay 5 Chan SRD New Footprint=Relay 4 chan HF46F
+Change Component Footprint: Designator=RL2 Old Footprint=Relay 5 Chan SRD New Footprint=Relay 4 chan HF46F
+Change Component Footprint: Designator=H1 Old Footprint=XH2.54M-3 New Footprint=XH2.54M-2
+Change Component Footprint: Designator=H2 Old Footprint=XH2.54M-3 New Footprint=XH2.54M-2
+Change Component Comment : Designator=H1 Old Comment=Header 3P 2.54 Duc Thang New Comment=Header 2P 2.54 Duc Thang
+Change Component Comment : Designator=H2 Old Comment=Header 3P 2.54 Duc Thang New Comment=Header 2P 2.54 Duc Thang
+Change Component Comment : Designator=RL1 Old Comment=Relay New Comment=RelayHF46
+Change Component Comment : Designator=RL2 Old Comment=Relay New Comment=RelayHF46
+Change component parameters: Designator = "RL1" ("RL1"); Footprint = "Relay 5 Chan SRD"; UniqueID = "\QDLRBKMD" ("\QDLRBKMD")
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH003879"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten"; Value = "Relay 5V5A HF46F-G 5-HS1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RL2" ("RL2"); Footprint = "Relay 5 Chan SRD"; UniqueID = "\CCZOPEFM" ("\CCZOPEFM")
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH003879"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten"; Value = "Relay 5V5A HF46F-G 5-HS1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H1" ("H1"); Footprint = "XH2.54M-3"; UniqueID = "\WMWZVCTH" ("\WMWZVCTH")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001283"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H2" ("H2"); Footprint = "XH2.54M-3"; UniqueID = "\XFJJSRSK" ("\XFJJSRSK")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001283"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 2P XH2.54-2P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vin Pin=RL1-1
+Added Pin To Net: NetName=NetD1_1 Pin=RL1-2
+Added Pin To Net: NetName=NetH1_2 Pin=RL1-3
+Added Pin To Net: NetName=NetH1_1 Pin=RL1-4
+Added Pin To Net: NetName=Vin Pin=RL2-1
+Added Pin To Net: NetName=NetD2_1 Pin=RL2-2
+Added Pin To Net: NetName=NetH2_2 Pin=RL2-3
+Added Pin To Net: NetName=NetH2_1 Pin=RL2-4
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Change Net Color : Old Net Color=Lime New Net Color=Default
+Added Room: Name=DHT11

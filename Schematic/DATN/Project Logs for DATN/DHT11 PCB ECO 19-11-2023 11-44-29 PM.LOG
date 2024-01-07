@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=SW1 Pin=ESP1-8
+Removed Pin From Net: NetName=relay1 Pin=ESP1-9
+Removed Pin From Net: NetName=SW2 Pin=ESP1-11
+Removed Pin From Net: NetName=SW1 Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=SW2 Pin=SW2-1
+Removed Pin From Net: NetName=GND Pin=SW2-2
+Change Component Footprint: Designator=H1 Old Footprint=Header 3P DC 2.54 New Footprint=XH2.54M-3
+Change Component Footprint: Designator=H2 Old Footprint=Header 3P DC 2.54 New Footprint=XH2.54M-3
+Change Component Footprint: Designator=H3 Old Footprint=Header 3P DC 2.54 New Footprint=XH2.54M-3
+Change Component Footprint: Designator=SW1 Old Footprint=SW-2P-S New Footprint=SW_342_SMD
+Change Component Footprint: Designator=SW2 Old Footprint=SW-2P-S New Footprint=SW_342_SMD
+Change Component Comment : Designator=H1 Old Comment=Header 3P 2.54 Duc Cong New Comment=Header 3P 2.54 Duc Thang
+Change Component Comment : Designator=H2 Old Comment=Header 3P 2.54 Duc Cong New Comment=Header 3P 2.54 Duc Thang
+Change Component Comment : Designator=H3 Old Comment=Header 3P 2.54 Duc Cong New Comment=Header 3P 2.54 Duc Thang
+Change Component Comment : Designator=SW1 Old Comment=SW-2P-S New Comment=TACTILE SWITCH
+Change Component Comment : Designator=SW2 Old Comment=SW-2P-S New Comment=TACTILE SWITCH
+Change component parameters: Designator = "H1" ("H1"); Footprint = "Header 3P DC 2.54"; UniqueID = "\WQPXTDLO" ("\WQPXTDLO")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001292"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 3P XH2.54-3P Ð?c Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H2" ("H2"); Footprint = "Header 3P DC 2.54"; UniqueID = "\NKSRWYXN" ("\NKSRWYXN")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001292"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 3P XH2.54-3P Ð?c Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H3" ("H3"); Footprint = "Header 3P DC 2.54"; UniqueID = "\LXJGWYDN" ("\LXJGWYDN")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001292"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 3P XH2.54-3P Ð?c Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "SW-2P-S"; UniqueID = "\GYWHWBGU" ("\GYWHWBGU")
+Change component parameters (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ITT C&K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RS-282G05A3-SMRT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "RS-282G05A3-SMRT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "SP ROAD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "SW-2P-S"; UniqueID = "\FIOTNNNW" ("\FIOTNNNW")
+Change component parameters (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ITT C&K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RS-282G05A3-SMRT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "RS-282G05A3-SMRT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "SP ROAD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=relay1 Pin=ESP1-11
+Added Pin To Net: NetName=SW1 Pin=ESP1-23
+Added Pin To Net: NetName=SW2 Pin=ESP1-30
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=SW1 Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=SW2 Pin=SW2-2
+Added Room: Name=DHT11

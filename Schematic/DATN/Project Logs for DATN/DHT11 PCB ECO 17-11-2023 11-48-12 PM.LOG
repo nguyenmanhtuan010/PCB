@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SW2 Pin=ESP1-9
+Removed Pin From Net: NetName=relay1 Pin=ESP1-11
+Added Pin To Net: NetName=relay1 Pin=ESP1-9
+Added Pin To Net: NetName=SW2 Pin=ESP1-11
+Added Room: Name=DHT11

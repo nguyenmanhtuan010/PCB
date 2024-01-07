@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=3V3 Pin=ESP1-16
+Added Pin To Net: NetName=GND Pin=ESP1-17
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Change Net Color : Old Net Color=Red New Net Color=Default
+Change Net Color : Old Net Color=Lime New Net Color=Default

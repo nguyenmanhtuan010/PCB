@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [DATN.PrjPcb]
+   Generated File[DHT11.GTO]
+   Generated File[DHT11.GTP]
+   Generated File[DHT11.GTS]
+   Generated File[DHT11.GTL]
+   Generated File[DHT11.GBL]
+   Generated File[DHT11.GBS]
+   Generated File[DHT11.GBP]
+   Generated File[DHT11.GBO]
+   Generated File[DHT11.GKO]
+   Generated File[DHT11.GPT]
+   Generated File[DHT11.GPB]
+   Generated File[DHT11.GD1]
+   Generated File[DHT11.GG1]
+   Generated File[DHT11.RUL]
+   Generated File[DHT11.EXTREP]
+   Generated File[DHT11.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 12:24:48 PM On 19/12/2023

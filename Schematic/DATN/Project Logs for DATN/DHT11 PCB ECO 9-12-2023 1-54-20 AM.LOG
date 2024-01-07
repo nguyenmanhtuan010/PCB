@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SDA Pin=H3-2
+Removed Pin From Net: NetName=SCL Pin=H3-3
+Added Pin To Net: NetName=SCL Pin=H3-2
+Added Pin To Net: NetName=SDA Pin=H3-3
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Change Net Color : Old Net Color=Lime New Net Color=Default
+Change Net Color : Old Net Color=Red New Net Color=Default

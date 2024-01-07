@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=H2 NewDesignator=H3
+Change Component Designator: OldDesignator=H3 NewDesignator=H2
+Change Component Designator: OldDesignator=H? NewDesignator=H1
+Change Component Designator: OldDesignator=RL? NewDesignator=RL1
+Change Component Designator: OldDesignator=RL? NewDesignator=RL2
+Change Net Name : Old Net Name=NetH2_1 New Net Name=NetH3_1
+Change Net Name : Old Net Name=NetH?_1 New Net Name=NetH1_1
+Added Member To Class: ClassName=DHT11 Member=Component RL2 Relay

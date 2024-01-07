@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Added Component: Designator=ESP1(ESP32 WROOM 32 KIT)
+Added Component: Designator=Q1(TO92)
+Add component (AddParameter): Name = "Value"; Value = "C9014"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(TO92)
+Add component (AddParameter): Name = "Value"; Value = "C9014"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=relay1 Pin=ESP1-11
+Added Pin To Net: NetName=relay2 Pin=ESP1-12
+Added Pin To Net: NetName=GND Pin=ESP1-14
+Added Pin To Net: NetName=+5 Pin=ESP1-15
+Added Pin To Net: NetName=DHT Pin=ESP1-20
+Added Pin To Net: NetName=SW1 Pin=ESP1-23
+Added Pin To Net: NetName=SDA Pin=ESP1-26
+Added Pin To Net: NetName=SCL Pin=ESP1-29
+Added Pin To Net: NetName=SW2 Pin=ESP1-30
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R6-2
+Added Net: Name=NetQ2_3
+Added Member To Class: ClassName=DHT11 Member=Component C3 1000uF
+Added Member To Class: ClassName=DHT11 Member=Component ESP1 ESP32 DEVKIT
+Added Member To Class: ClassName=DHT11 Member=Component Q1 C1815
+Added Member To Class: ClassName=DHT11 Member=Component Q2 C1815
+Added Room: Name=DHT11

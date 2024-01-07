@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R4-2
+Added Net: Name=NetQ1_3
+Added Member To Class: ClassName=DHT11 Member=Component LCD1 LCD1602 XL

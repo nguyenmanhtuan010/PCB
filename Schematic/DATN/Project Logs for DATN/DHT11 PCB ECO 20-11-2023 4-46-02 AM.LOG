@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5 Pin=ESP1-15
+Added Pin To Net: NetName=NetC2_1 Pin=ESP1-15
+Change Net Name : Old Net Name=NetC2_1 New Net Name=Vin
+Added Member To Class: ClassName=DHT11 Member=Component C2 1000uF/16V
+Added Member To Class: ClassName=DHT11 Member=Component C3 104
+Added Member To Class: ClassName=DHT11 Member=Component C4 104

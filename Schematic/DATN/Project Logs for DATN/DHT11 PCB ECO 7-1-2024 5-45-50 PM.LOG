@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=ESP1-17
+Added Member To Class: ClassName=DHT11 Member=Component R9 4.7k

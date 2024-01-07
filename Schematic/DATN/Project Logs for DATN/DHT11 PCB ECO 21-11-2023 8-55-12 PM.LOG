@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SW1 Pin=ESP1-18
+Removed Pin From Net: NetName=SW2 Pin=ESP1-19
+Added Pin To Net: NetName=SW2 Pin=ESP1-18
+Added Pin To Net: NetName=SW1 Pin=ESP1-19
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Change Net Color : Old Net Color=Lime New Net Color=Default
+Change Net Color : Old Net Color=Red New Net Color=Default
+Added Member To Class: ClassName=DHT11 Member=Component H3 Header 3P 2.54 Duc Thang

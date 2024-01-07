@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SW1 Pin=ESP1-23
+Removed Pin From Net: NetName=SW2 Pin=ESP1-30
+Added Pin To Net: NetName=SW2 Pin=ESP1-18
+Added Pin To Net: NetName=SW1 Pin=ESP1-19
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Change Net Color : Old Net Color=Red New Net Color=Default
+Change Net Color : Old Net Color=Lime New Net Color=Default
+Added Member To Class: ClassName=DHT11 Member=Component C2 1000uF/16V
